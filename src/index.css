@@ -12,11 +12,18 @@ body {
       monospace;
   }
 
-  .App {
+  .Location {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 40vh;
+      height: 60vh;
       width: 100%;
   }
+
+  .Address {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
